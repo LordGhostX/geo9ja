@@ -1,6 +1,6 @@
 # geo9ja
 
-Team X submission for CCHub 2019 Data4Governance Challenge.
+Team X submission for CCHub 2019 Data4Governance Challenge. Hosted on Github Pages here [https://lordghostx.github.io/geo9ja/website/](https://lordghostx.github.io/geo9ja/website/) and our medium is at [https://medium.com/@akpananthony33/my-data4governance-hackathon-experience-9c76c3505632?source=friends_link&sk=42066a1e631a52677c7197542c9f1bc6](https://medium.com/@akpananthony33/my-data4governance-hackathon-experience-9c76c3505632?source=friends_link&sk=42066a1e631a52677c7197542c9f1bc6)
 
 ## Team members
 * [Solomon Esenyi](https://github.com/lordghostx)
